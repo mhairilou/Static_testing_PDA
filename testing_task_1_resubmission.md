@@ -17,6 +17,14 @@ Only comment on errors that would stop the tests running.
 class CardGame:
 
 
+  def check_for_ace(self, card):
+    if card.value = 1:
+      return True
+      #missing colon after else
+    else
+      return False
+
+
 #dif should be def, comma needed after card1
   dif highest_card(self, card1 card2):
 #if statement should be indented
